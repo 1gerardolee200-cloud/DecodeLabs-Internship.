@@ -1,8 +1,7 @@
 # DecodeLabs-Internship.
 ## Exploratory Data Analysis
 ## Key Findings
-
--Total revenue generated was $1.26M.-
++Total revenue generated was $1.26M.+
 -Chairs were the highest revenue-generating product category.-
 -Instagram was the most effective referral source.
 -309 records contained missing coupon code values.
